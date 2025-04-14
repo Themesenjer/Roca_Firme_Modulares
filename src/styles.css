@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --color-madera: #8B5E3C;
+    --color-arena: #F3E9DC;
+    --color-piedra: #4A4A4A;
+    --color-blanco: #FFFFFF;
+    --color-esperanza: #336699;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--color-arena);
+    color: var(--color-piedra);
+  }
+  
