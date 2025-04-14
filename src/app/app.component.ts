@@ -6,7 +6,7 @@ import { RouterOutlet } from '@angular/router'; // 👈 IMPORTANTE
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [HeaderComponent, FooterComponent, RouterOutlet], // 👈 AGREGA ESTO
+  imports: [HeaderComponent, FooterComponent, RouterOutlet], 
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
