@@ -1,0 +1,18 @@
+.quienes-somos-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    text-align: center;
+  }
+  
+  .quienes-somos-container h2 {
+    color: #b71c1c;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+  
+  .quienes-somos-container p {
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+  

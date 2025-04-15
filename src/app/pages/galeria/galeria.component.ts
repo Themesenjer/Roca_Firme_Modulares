@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-galeria',
-  imports: [],
+  standalone: true,
+  imports: [CommonModule, RouterModule],
   templateUrl: './galeria.component.html',
-  styleUrl: './galeria.component.css'
+  styleUrls: ['./galeria.component.css']
 })
-export class GaleriaComponent {
-
-}
+export class GaleriaComponent {}

@@ -1,0 +1,32 @@
+.contacto-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    text-align: center;
+  }
+  
+  .contacto-container h2 {
+    color: #b71c1c;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+  
+  .contacto-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contacto-container li {
+    margin: 0.8rem 0;
+    font-size: 1.1rem;
+  }
+  
+  .contacto-container a {
+    color: #1976d2;
+    text-decoration: none;
+  }
+  
+  .contacto-container a:hover {
+    text-decoration: underline;
+  }
+  
